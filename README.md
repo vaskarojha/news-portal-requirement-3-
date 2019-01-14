@@ -1,24 +1,9 @@
-# README
+# AIDb Alternative framework All requirements are covered as required:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Data validations
 
-Things you may want to cover:
+* Stylesheet and layouts* git push -u origin master
 
-* Ruby version
+* Internationalization 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*
