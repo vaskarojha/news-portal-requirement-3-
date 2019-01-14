@@ -2,6 +2,6 @@
 
 * Data validations
 
-* Stylesheet and layouts* git push -u origin master
+* Stylesheet and layouts
 
-* Internationalization 
+* Athuntication
