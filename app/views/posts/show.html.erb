@@ -1,0 +1,13 @@
+<br>
+<%= render 'comments/form'%>
+<hr>
+<%= render 'comments/comments'%>
+<h2><%= @post.title %></h2>
+<p><%= @post.body%></p>
+<br>
+
+<%= link_to "Edit", edit_post_path(@post), :class => 'btn btn-success col-md-1' %>
+<%= link_to "Delete", post_path(@post),
+                    method: :delete,
+                    data: {confirm: 'You really want to delete this posts?'},
+                    :class => 'btn btn-danger col-md-1' %>
